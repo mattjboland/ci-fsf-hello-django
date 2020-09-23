@@ -26,7 +26,7 @@ SECRET_KEY = '38ly5j(#t*yjj$f15*=6^9lu&*ge%haij!t^4t(*h3e!tup)$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['matt-boland-todo-app.herokuapp.com']
+ALLOWED_HOSTS = ['matt-boland-todo-app.herokuapp.com', 'localhost:8000']
 
 
 # Application definition
